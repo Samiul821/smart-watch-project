@@ -17,6 +17,6 @@ for (let i = 0; i < ringButtons.length; i++) {
 
     const productImage = document.getElementById("product-image");
     // productImage.src = "../images/teal.png";
-    productImage.src = "../images/" + color + ".png"
+    productImage.src = "images/" + color + ".png"
   });
 }
